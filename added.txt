@@ -1,1 +1,1 @@
-assets/images/test.png
+assets/images/iconlasdt.png
